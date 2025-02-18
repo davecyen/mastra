@@ -1,5 +1,15 @@
 # mastra
 
+## 0.2.1-alpha.0
+
+### Patch Changes
+
+- 91ef439: Add eslint and ran autofix
+- Updated dependencies [d59f1a8]
+- Updated dependencies [91ef439]
+  - @mastra/core@0.2.1-alpha.0
+  - @mastra/deployer@0.1.1-alpha.0
+
 ## 0.2.0
 
 ### Minor Changes

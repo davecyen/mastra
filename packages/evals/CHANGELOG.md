@@ -1,5 +1,15 @@
 # @mastra/evals
 
+## 0.1.1-alpha.0
+
+### Patch Changes
+
+- d59f1a8: Added example docs for evals and export metricJudge
+- 91ef439: Add eslint and ran autofix
+- Updated dependencies [d59f1a8]
+- Updated dependencies [91ef439]
+  - @mastra/core@0.2.1-alpha.0
+
 ## 0.1.0
 
 ### Minor Changes
